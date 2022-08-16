@@ -84,6 +84,7 @@ span:last-of-type {
 #main {
   background-image: url("VsBackgroundImg.png");
   background-size: cover;
+  background-attachment:fixed;
   grid-area: main;
   margin-top: 20px;
   /* background-color: green; */
